@@ -29,7 +29,7 @@ const buttonProps = {
     default: ""
   }
 };
-const SButton = /* @__PURE__ */ defineComponent({
+const Button = /* @__PURE__ */ defineComponent({
   name: "SButton",
   props: buttonProps,
   setup(props, {
@@ -96,13 +96,13 @@ const TSXButton = /* @__PURE__ */ defineComponent({
 });
 const entry = {
   install(app) {
-    app.component(SButton.name, SButton);
+    app.component(Button.name, Button);
     app.component(SFCButton.name, SFCButton);
     app.component(TSXButton.name, TSXButton);
   }
 };
 export {
-  SButton,
+  Button as SButton,
   SFCButton,
   TSXButton,
   entry as default
