@@ -1,3 +1,7 @@
+[![codecov](https://codecov.io/github/LilyHmg/ssy-ui-vite/graph/badge.svg?token=NOAVO0C3PD)](https://codecov.io/github/LilyHmg/ssy-ui-vite)
+<a href="https://codecov.io/github/LilyHmg/ssy-ui-vite" > 
+ <img src="https://codecov.io/github/LilyHmg/ssy-ui-vite/graph/badge.svg?token=NOAVO0C3PD"/> 
+ </a>
 <p align="center">
 <img src = "https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.png" style="width:200px;"/>
 </p>
